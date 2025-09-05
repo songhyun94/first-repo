@@ -1,1 +1,5 @@
-A
+<<<<<<< HEAD
+MASTER
+=======
+FOOOOOO
+>>>>>>> foo
